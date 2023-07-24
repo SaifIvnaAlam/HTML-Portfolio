@@ -37,3 +37,13 @@ nav li {
 .nav-name {
   font-size: 50px;
 }
+
+.banner {
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+
+.banner .profile-pic {
+  width: 500px;
+}
