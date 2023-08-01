@@ -230,4 +230,28 @@ footer {
   display: flex;
   padding: 130px 200px;
   margin-top: 100px;
+  gap: 100px;
+  background-image: url(../images/doodle.png);
+}
+
+footer .footer-colum {
+  text-align: center;
+  width: 50%;
+  background-image: url(../images/doodle.png);
+}
+
+.contact-form input[type="text"],
+textarea {
+  display: block;
+
+  margin-bottom: 25px;
+  padding: 18px 36px;
+  font-size: 16px;
+  border-radius: 5px;
+  border-color: white;
+  width: 100%;
+}
+
+.social-links a {
+  margin-right: 25px;
 }
