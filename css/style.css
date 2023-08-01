@@ -216,3 +216,18 @@ main {
   text-align: center;
   margin-top: 50px;
 }
+
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
+}
+.contact-discription {
+  color: #ffffff;
+  font-size: 100px;
+}
+
+footer {
+  display: flex;
+  padding: 130px 200px;
+  margin-top: 100px;
+}
